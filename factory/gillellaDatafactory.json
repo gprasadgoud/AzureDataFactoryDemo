@@ -1,0 +1,9 @@
+{
+	"name": "gillellaDatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4f005a0-8e45-4bf8-9e45-d4ed1dcc630c",
+		"tenantId": "7282dbaf-e86c-4be9-8b43-fbe21adcee57"
+	}
+}
